@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "constants.h": "c",
+    "models.h": "c",
+    "locale.h": "c"
+  }
+}

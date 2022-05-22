@@ -1,0 +1,17 @@
+Guerra dos Erbops 2 - A volta dos que nao foram! - ECOMP2021.2
+Caso voce nao escolha a dificuldade, o jogo vai comecar na dificuldade facil!
+1 - Jogar
+2 - Configuracoes e Creditos
+3 - Sair
+
+                       |    |    |
+                      )_)  )_)  )_)
+                     )___))_2_))___)\
+                    )____)____)_____)\
+                  _____|____|____|____\__
+         ---------\                   /---------
+           ^^^^^ ^^^^^^^^^^^^^^^^^^^^^
+          ^^^^      ^^^^     ^^^    ^^
+                  ^^^^      ^^^
+
+Escolha uma opcao de entrada: 

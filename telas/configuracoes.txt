@@ -1,0 +1,12 @@
+Desenvolvido por Caio Victor, Joel Medeiros, Marcos Prudencio e Sergio Henrique, com as orientações de Joabe Jesus.
+
+CONTROLES: Utilize os botoes W pra subir o barco, S para Descer e ESPAÇO para disparar o projétil.
+
+Configuracoes do JOGO:
+
+- Dificuldade:
+1 - Facil
+2 - Mediana
+3 - Dificil
+
+Escolha a Dificuldade desejada: 
