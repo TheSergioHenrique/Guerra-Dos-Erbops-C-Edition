@@ -133,7 +133,7 @@ bool jogoLoop(Barco *barco, Bala *bala, Barco *alvo, int *pontuacao)
         if (xDoAlvo + j == (*bala).x && (*alvo).y == (*bala).y)
         {
             gotoxy(LIMITE / 2 - 6, LIMITE_VERT);
-            printf("Boaaa corno fi de rapariga!");
+            printf("Acertou!!!! +10 pontos!!!!");
             (*alvo).ativo = false;
             apagarBarco(*alvo);
             *pontuacao += PONTOS_ACERTO;
